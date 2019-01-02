@@ -1,0 +1,37 @@
+c:\users\moro\documents\visual studio 2013\Projects\Simplex IO\Simplex IO\bin\Debug\Simplex IO.exe.config
+c:\users\moro\documents\visual studio 2013\Projects\Simplex IO\Simplex IO\bin\Debug\Simplex IO.exe
+c:\users\moro\documents\visual studio 2013\Projects\Simplex IO\Simplex IO\bin\Debug\Simplex IO.pdb
+c:\users\moro\documents\visual studio 2013\Projects\Simplex IO\Simplex IO\bin\Debug\Simplex IO.xml
+c:\users\moro\documents\visual studio 2013\Projects\Simplex IO\Simplex IO\obj\Debug\Simplex_IO.FMenu.resources
+c:\users\moro\documents\visual studio 2013\Projects\Simplex IO\Simplex IO\obj\Debug\Simplex_IO.Gran_M.resources
+c:\users\moro\documents\visual studio 2013\Projects\Simplex IO\Simplex IO\obj\Debug\Simplex_IO.Resources.resources
+c:\users\moro\documents\visual studio 2013\Projects\Simplex IO\Simplex IO\obj\Debug\Simplex IO.vbproj.GenerateResource.Cache
+c:\users\moro\documents\visual studio 2013\Projects\Simplex IO\Simplex IO\obj\Debug\Simplex IO.exe
+c:\users\moro\documents\visual studio 2013\Projects\Simplex IO\Simplex IO\obj\Debug\Simplex IO.xml
+c:\users\moro\documents\visual studio 2013\Projects\Simplex IO\Simplex IO\obj\Debug\Simplex IO.pdb
+C:\Users\Sealtiel\Google Drive\Simplex IO\Simplex IO\bin\Debug\Simplex IO.exe.config
+C:\Users\Sealtiel\Google Drive\Simplex IO\Simplex IO\obj\Debug\Simplex IO.exe
+C:\Users\Sealtiel\Google Drive\Simplex IO\Simplex IO\obj\Debug\Simplex IO.xml
+C:\Users\Sealtiel\Google Drive\Simplex IO\Simplex IO\obj\Debug\Simplex IO.pdb
+C:\Users\Sealtiel\Google Drive\Simplex IO\Simplex IO\obj\Debug\Simplex IO.vbprojResolveAssemblyReference.cache
+C:\Users\Sealtiel\Google Drive\Simplex IO\Simplex IO\obj\Debug\Simplex_IO.FMenu.resources
+C:\Users\Sealtiel\Google Drive\Simplex IO\Simplex IO\obj\Debug\Simplex_IO.Gran_M.resources
+C:\Users\Sealtiel\Google Drive\Simplex IO\Simplex IO\obj\Debug\Simplex_IO.Resources.resources
+C:\Users\Sealtiel\Google Drive\Simplex IO\Simplex IO\obj\Debug\Simplex IO.vbproj.GenerateResource.Cache
+C:\Users\Sealtiel\Google Drive\Simplex IO\Simplex IO\bin\Debug\Simplex IO.exe
+C:\Users\Sealtiel\Google Drive\Simplex IO\Simplex IO\bin\Debug\Simplex IO.pdb
+C:\Users\Sealtiel\Google Drive\Simplex IO\Simplex IO\bin\Debug\Simplex IO.xml
+C:\Users\Moro\Google Drive\Simplex IO\Simplex IO\bin\Debug\Simplex IO.exe.config
+C:\Users\Moro\Google Drive\Simplex IO\Simplex IO\obj\Debug\Simplex IO.exe
+C:\Users\Moro\Google Drive\Simplex IO\Simplex IO\obj\Debug\Simplex IO.xml
+C:\Users\Moro\Google Drive\Simplex IO\Simplex IO\obj\Debug\Simplex IO.pdb
+C:\Users\Moro\Google Drive\Simplex IO\Simplex IO\bin\Debug\Simplex IO.exe
+C:\Users\Moro\Google Drive\Simplex IO\Simplex IO\bin\Debug\Simplex IO.pdb
+C:\Users\Moro\Google Drive\Simplex IO\Simplex IO\bin\Debug\Simplex IO.xml
+C:\Users\Moro\Google Drive\Simplex IO\Simplex IO\obj\Debug\Simplex IO.vbprojResolveAssemblyReference.cache
+C:\Users\Moro\Google Drive\Simplex IO\Simplex IO\obj\Debug\Simplex_IO.FMenu.resources
+C:\Users\Moro\Google Drive\Simplex IO\Simplex IO\obj\Debug\Simplex_IO.Gran_M.resources
+C:\Users\Moro\Google Drive\Simplex IO\Simplex IO\obj\Debug\Simplex_IO.Resources.resources
+C:\Users\Moro\Google Drive\Simplex IO\Simplex IO\obj\Debug\Simplex IO.vbproj.GenerateResource.Cache
+C:\Users\Sealtiel\Google Drive\Simplex IO\Simplex IO\obj\Debug\Simplex_IO.Revisado.resources
+C:\Users\Moro\Google Drive\Simplex IO\Simplex IO\obj\Debug\Simplex_IO.Revisado.resources
